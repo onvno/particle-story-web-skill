@@ -1,0 +1,54 @@
+{
+  "slug": "",
+  "title": "盘古开天",
+  "seal": "盘",
+  "theme": "earth",
+  "finale": "river",
+  "description": "从混沌初始到万物初生，随滚动看粒子聚散，读完盘古开天的五幕神话。",
+  "chapters": [
+    {
+      "id": "chaos",
+      "art": "chaos",
+      "label": "混沌初始",
+      "short": "混沌",
+      "title": ["盘古", "开天"],
+      "text": ["天地未分，混沌如卵。", "盘古在其中沉睡，已有一万八千年。"]
+    },
+    {
+      "id": "awakening",
+      "art": "awakening",
+      "label": "盘古苏醒",
+      "short": "苏醒",
+      "title": ["巨人", "醒来"],
+      "text": ["有一日，盘古睁开双眼。四方皆是黑暗，他伸出手，摸到的只有混沌。"]
+    },
+    {
+      "id": "cleaving",
+      "art": "cleaving",
+      "label": "一斧开天",
+      "short": "开天",
+      "title": ["一斧", "破鸿蒙"],
+      "text": ["盘古挥斧，劈开混沌。清而轻的向上升，成为天。浊而重的向下沉，成为地。"],
+      "force": 1.32
+    },
+    {
+      "id": "standing",
+      "art": "standing",
+      "label": "顶天立地",
+      "short": "撑天",
+      "title": ["天地", "日长"],
+      "text": ["盘古怕天地重新合拢，便头顶天、脚踏地。天每日升高一丈，地每日加厚一丈，他也随之长高一丈。"]
+    },
+    {
+      "id": "creation",
+      "art": "creation",
+      "label": "万物初生",
+      "short": "山河",
+      "title": ["身化", "山河"],
+      "text": ["盘古倒下了。他的双眼化为日月，骨骼化为山峦，血液流成江河。呼出的最后一口气，化作天地间的风与云。"],
+      "pigment": "celadon",
+      "height": 0.82,
+      "feather": 0.16
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "粒子故事 Web Skill"
+  short_description: "将神话和童话改编成可倒放的粒子故事网页，为每篇结尾制作独立动效"
+  default_prompt: "用 $particle-story-web-skill 把《拇指姑娘》做成可倒放的粒子故事网页。"
